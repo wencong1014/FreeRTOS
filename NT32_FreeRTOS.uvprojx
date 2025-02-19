@@ -398,29 +398,19 @@
               <FilePath>.\firmware\CMSIS\device\startup\startup_n32g032.s</FilePath>
             </File>
             <File>
-              <FileName>base64.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\App\base64.c</FilePath>
-            </File>
-            <File>
-              <FileName>key_aes.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\App\key_aes.c</FilePath>
-            </File>
-            <File>
-              <FileName>util.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\App\util.c</FilePath>
-            </File>
-            <File>
-              <FileName>md5.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\App\md5.c</FilePath>
-            </File>
-            <File>
               <FileName>usart.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\App\usart.c</FilePath>
+            </File>
+            <File>
+              <FileName>key.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\App\key.c</FilePath>
+            </File>
+            <File>
+              <FileName>LED.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\App\LED.c</FilePath>
             </File>
           </Files>
         </Group>

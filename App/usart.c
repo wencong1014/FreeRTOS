@@ -51,7 +51,7 @@ int fputc(int ch, FILE* f)
  */
 
 
-int usart_init(void)
+void usart_init(void)
 {
     USART_InitType USART_InitStructure;
     RCC_ClocksType RCC_ClocksStatus;

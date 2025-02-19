@@ -85,7 +85,7 @@ extern "C" {
 
 // void RCC_Configuration(void);
 // void GPIO_Configuration(void);
-int usart_init(void);
+void usart_init(void);
 
 
 #ifdef __cplusplus
